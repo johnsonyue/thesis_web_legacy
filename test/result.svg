@@ -1,0 +1,174 @@
+<svg width="1440" height="500">
+    <g class="content" transform="translate(50,20)">
+        <g class="x axis" transform="translate( 0,450)">
+            <g class="tick" transform="translate(0,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">1</text>
+            </g>
+            <g class="tick" transform="translate(0.03333333333333333,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">2</text>
+            </g>
+            <g class="tick" transform="translate(0.06666666666666667,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">3</text>
+            </g>
+            <g class="tick" transform="translate(0.1,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">4</text>
+            </g>
+            <g class="tick" transform="translate(0.13333333333333333,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">5</text>
+            </g>
+            <g class="tick" transform="translate(0.16666666666666666,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">6</text>
+            </g>
+            <g class="tick" transform="translate(0.2,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">7</text>
+            </g>
+            <g class="tick" transform="translate(0.23333333333333334,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">8</text>
+            </g>
+            <g class="tick" transform="translate(0.26666666666666666,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">9</text>
+            </g>
+            <g class="tick" transform="translate(0.3,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">10</text>
+            </g>
+            <g class="tick" transform="translate(0.3333333333333333,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">11</text>
+            </g>
+            <g class="tick" transform="translate(0.36666666666666664,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">12</text>
+            </g>
+            <g class="tick" transform="translate(0.4,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">13</text>
+            </g>
+            <g class="tick" transform="translate(0.43333333333333335,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">14</text>
+            </g>
+            <g class="tick" transform="translate(0.4666666666666667,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">15</text>
+            </g>
+            <g class="tick" transform="translate(0.5,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">16</text>
+            </g>
+            <g class="tick" transform="translate(0.5333333333333333,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">17</text>
+            </g>
+            <g class="tick" transform="translate(0.5666666666666667,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">18</text>
+            </g>
+            <g class="tick" transform="translate(0.6,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">19</text>
+            </g>
+            <g class="tick" transform="translate(0.6333333333333333,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">20</text>
+            </g>
+            <g class="tick" transform="translate(0.6666666666666666,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">21</text>
+            </g>
+            <g class="tick" transform="translate(0.7,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">22</text>
+            </g>
+            <g class="tick" transform="translate(0.7333333333333333,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">23</text>
+            </g>
+            <g class="tick" transform="translate(0.7666666666666667,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">24</text>
+            </g>
+            <g class="tick" transform="translate(0.8,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">25</text>
+            </g>
+            <g class="tick" transform="translate(0.8333333333333334,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">26</text>
+            </g>
+            <g class="tick" transform="translate(0.8666666666666667,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">27</text>
+            </g>
+            <g class="tick" transform="translate(0.9,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">28</text>
+            </g>
+            <g class="tick" transform="translate(0.9333333333333333,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">29</text>
+            </g>
+            <g class="tick" transform="translate(0.9666666666666667,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">30</text>
+            </g>
+            <g class="tick" transform="translate(1,0)" style="opacity: 1;">
+                <line y2="6" x2="0"></line>
+                <text dy=".71em" y="9" x="0" style="text-anchor: middle;">31</text>
+            </g>
+            <path class="domain" d="M0,6V0H1V6"></path>
+        </g>
+        <g class="y axis">
+            <g class="tick" transform="translate(0,0)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">0</text>
+            </g>
+            <g class="tick" transform="translate(0,0.10638297872340426)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">10</text>
+            </g>
+            <g class="tick" transform="translate(0,0.2127659574468085)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">20</text>
+            </g>
+            <g class="tick" transform="translate(0,0.3191489361702128)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">30</text>
+            </g>
+            <g class="tick" transform="translate(0,0.425531914893617)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">40</text>
+            </g>
+            <g class="tick" transform="translate(0,0.5319148936170213)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">50</text>
+            </g>
+            <g class="tick" transform="translate(0,0.6382978723404256)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">60</text>
+            </g>
+            <g class="tick" transform="translate(0,0.7446808510638298)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">70</text>
+            </g>
+            <g class="tick" transform="translate(0,0.851063829787234)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">80</text>
+            </g>
+            <g class="tick" transform="translate(0,0.9574468085106383)" style="opacity: 1;">
+                <line x2="-6" y2="0"></line>
+                <text dy=".32em" x="-9" y="0" style="text-anchor: end;">90</text>
+            </g>
+            <path class="domain" d="M-6,0H0V1H-6"></path>
+        </g>
+    </g>
+</svg>
